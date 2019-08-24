@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  haproxy:
+    image: haproxy-notfound-server:latest
+    ports:
+      - "80:8080"
