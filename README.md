@@ -1,4 +1,4 @@
-# haproxy-notfound-server
+# haproxy-static-errors-server
 
 ## CA Instructions
 
