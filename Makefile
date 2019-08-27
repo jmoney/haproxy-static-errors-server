@@ -1,4 +1,4 @@
-APPLICATION_NAME=haproxy-notfound-server
+APPLICATION_NAME=haproxy-static-errors-server
 
 build:
 	docker build . \
