@@ -6,4 +6,4 @@ build:
 		-t $(APPLICATION_NAME):latest
 
 run: build
-	sudo docker-compose up
+	docker-compose up
