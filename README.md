@@ -21,6 +21,7 @@ This will start up the haproxy example server on port 8080.  To change the port 
 
 ### Example paths
 
-|| Status Code || Path ||
+| Status Code | Path |
+| ----------- | ---- |
 | 404 | /404 |
 | 503 | /503 |
