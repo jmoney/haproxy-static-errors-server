@@ -1,4 +1,4 @@
-FROM haproxy:2.0
+FROM haproxy:1.9
 
 ARG APPLICATION_NAME
 LABEL application $APPLICATION_NAME
